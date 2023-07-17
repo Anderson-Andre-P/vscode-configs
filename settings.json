@@ -1,0 +1,34 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "yaml.schemas": {
+    "file:///home/anderson/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[dart]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.fontLigatures": true, 
+  "editor.fontWeight": "600",
+  "editor.fontFamily": "Fira Code, IBM Plex Mono, Monaco, Courier New, monospace",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 28,
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.wordWrap": "on",
+  "workbench.activityBar.visible": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
