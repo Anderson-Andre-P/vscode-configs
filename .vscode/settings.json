@@ -11,7 +11,7 @@
     ".flutter-plugins-dependencies": true,
     "LICENSE": true,
     "pubspec.lock": true,
-    "README.md": true,
+    "README.md": false,
     ".dart_tool": true,
     "android": true,
     "ios": true,
